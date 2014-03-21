@@ -11,7 +11,7 @@ description: a simple man a simple life
 keywords: yefeili
 url: http://yefeili.github.io/
 feed: /atom.xml
-favicon: http://jekyllrb.com/favicon.png
+favicon: /favicon.ico
 
 #Nav config
 nav:
