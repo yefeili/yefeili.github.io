@@ -29,7 +29,7 @@ nav:
 #Author config
 author:
     name: yefeili
-    email: yefeili@yahoo.com
+    email: 
     imageLink: 
     simpleIntro: i am yefeili
     detailIntro:
@@ -44,27 +44,20 @@ follow:
     url: http://weibo.com/yefeili
   - class: icon-github-alt
     url: http://github.com/yefeili
-  - class: icon-twitter
-    url: http://twitter.com/yefeili
+
 
 #Links
 customLinks:
   - item:
-    - text: 掌心
-      url: http://www.zhanxin.info
     - text: Jekyll
       url: http://jekyllrb.com
-    - text: Jekyll Theme
-      url: http://www.zhanxin.info/themes.html
-    message: Friends
-  - item:
     - text: Font Awesome
       url: http://fortawesome.github.io/Font-Awesome/
     - text: Google Font
       url: http://www.google.com/fonts/
     - text: jQuery
       url: http://jquery.com/
-    message: 其他相关链接
+    message: 相关链接
 
 #googleAnaly, your id link UA-12345678-X
 googleAnaly:
